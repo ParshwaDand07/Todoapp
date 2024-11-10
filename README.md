@@ -93,7 +93,3 @@ The back-end exposes the following RESTful API endpoints:
 - the Authorization header as a Bearer token in all requests (except for
 - public endpoints like login and register).
 
-## Deployment:
-To deploy your app, you can use platforms such as:
-- Front-End: Deploy the React app on platforms like Vercel.
-- Back-End: Host the Node.js app on platforms like Heroku or Render.
